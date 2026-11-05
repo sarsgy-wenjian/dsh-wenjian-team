@@ -1,0 +1,8 @@
+# dsh-wenjian-team bundle patch: one insert registering the skill installer plugin.
+# The row id MUST match the exported cordis `name` in lib/index.js.
+- insert:
+    - id: 'wenjian-team'
+      name: 'dsh-wenjian-team'
+      config:
+        autoInstall: true
+        force: false
