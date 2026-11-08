@@ -21,6 +21,14 @@
 - **不改你的稿**：校验/建议角色只读；修订只按作者勾选的逐字包执行；落盘要单独授权。
 - **不携带任何项目数据**：插件只有技能与模板，不含任何小说稿件、设定或评分答案。
 
+## 配套插件（可选）
+
+[dsh-intake-guard](https://github.com/sarsgy-wenjian/dsh-intake-guard)：材料接管闸门——用户新递进来的资料默认标成「外部材料·非基准」，文档出六行接管卡并硬拦记忆/基准写入，截图/代码等问答上下文只留一行标记。独立安装、互不依赖。
+
+```bash
+dsh plugin --profile desktop add github:sarsgy-wenjian/dsh-intake-guard
+```
+
 ## 安装
 
 从 GitHub（发布后）：
