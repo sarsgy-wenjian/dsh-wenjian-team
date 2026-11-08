@@ -106,6 +106,13 @@ dsh plugin --profile desktop remove dsh-wenjian-team
 
 或在新会话里让 AI 调 `wenjian_team` 的 `uninstall`（只删除内容未改过的技能；用户改过的会保留）。
 
+## 反馈与交流
+
+- **问题 / 建议**：本仓库 GitHub Issues，或邮件 `sarsgy01@outlook.com`
+- **国内访问**：Gitee 镜像 https://gitee.com/the-color-of-the-night-sky/wenjian-agent-team （可能滞后，以 GitHub 为准）
+- **欢迎分享改进**：MIT，fork/PR 或邮件都行；调试好的版本请注明改了什么、怎么验证的。
+- 反馈时请勿贴稿件正文、密钥或隐私，给最小复现即可。
+
 ## License
 
 MIT。见 `LICENSE`。
